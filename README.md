@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Some updates to XCode since the video had been made contained differences of UI and functionality for Tim's XCode at multiple points of the development process were not always translatable or easily found.
+Some updates to XCode since the video had been made contained differences of UI and functionality for Tim's XCode at multiple points of the development process that were not always translatable or easily found.
 
 Fixing an "libc++abi.dylib: terminating with uncaught exception of type NSException (lldb)" error that popped up by my accidental linking to the wrong reference outlet.
 
